@@ -3,10 +3,14 @@ Bu proje, **LC Waikiki** e-ticaret platformu için otomasyon testleri gerçekle�
 
 ## Kullanılan Teknolojiler ve Araçlar
 
+- **Intellij IDEA**: IDE olarak kullanılmıştır.
 - **Java**: Proje, Java programlama diliyle yazılmıştır.
-- **Selenium WebDriver**: Web uygulamalarını test etmek için kullanılan güçlü bir araçtır. Sayfa etkileşimlerini otomatikleştirir.
-- **TestNG**: Test senaryolarını organize etmek ve yönetmek için kullanılan popüler bir test framework'üdür. Testlerin paralel olarak çalıştırılmasına olanak tanır.
-- **Allure**: Test sonuçlarını görsel olarak raporlamak için kullanılan bir araçtır. Testlerin durumunu ve geçme/başarısızlık oranlarını detaylı şekilde gösterir.
+- **Maven**: Projeyi yapılandırmak için Maven repo kullanılmıştır.
+- **Selenium WebDriver**: Web sitesini test etmek için kullanılmıştır.
+- **TestNG**: Test senaryolarını organize etmek ve yönetmek için kullanılmıştır. 
+- **Allure**: Test sonuçlarını görsel olarak raporlamak için kullanılmıştır.
+- **POM**: Proje Page Object Model mimarisi kullanılarak yazılmıştır.
+
 
 ## Proje Yapısı
 
