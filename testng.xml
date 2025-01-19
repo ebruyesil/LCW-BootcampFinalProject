@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/iremyesil/Desktop/ebru/intellij/Patika_LCW_Final_AutomationTest_Project/src/test/java/tests">
+        <classes>
+            <class name="tests.LoginTest">
+                <methods>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+            <class name="tests.CategoryTest">
+                <methods>
+                    <include name="testCategory"/>
+                </methods>
+            </class>
+            <class name="tests.FilterTest">
+                <methods>
+                    <include name="testFilter"/>
+                </methods>
+            </class>
+            <class name="tests.ProductDetailTest">
+                <methods>
+                    <include name="testProductDetails"/>
+                </methods>
+            </class>
+            <class name="tests.CartTest">
+                <methods>
+                    <include name="testCart"/>
+                </methods>
+            </class>
+            <class name="tests.FavoriteTest">
+                <methods>
+                    <include name="testAddToFavoritesAndVerify"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
