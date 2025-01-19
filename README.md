@@ -19,6 +19,11 @@ Bu proje, **LC Waikiki** e-ticaret platformu için otomasyon testleri gerçekle�
 - `testng.xml`: TestNG konfigürasyon dosyası.
 - `pom.xml`: Maven projesi için bağımlılıkları ve yapılandırmaları içerir.
 
+## Test Senaryoları Allure Report Ekran Görüntüsü
+
+<img width="533" alt="allureReport" src="https://github.com/user-attachments/assets/f899375d-2aef-4e1a-8766-ff7ccdc0cd86" />
+
+
 
 ## Kullanım
 
