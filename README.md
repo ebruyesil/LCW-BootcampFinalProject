@@ -1,5 +1,5 @@
 # Patika LCW Final Automation Test Project
-Bu proje, **LC Waikiki** e-ticaret platformu için otomasyon testleri gerçekleştiren bir test otomasyonu framework'üdür. **Selenium WebDriver**, **TestNG** ve **Allure** entegrasyonları kullanılarak geliştirilmiştir. Projenin amacı, web uygulamasının fonksiyonel testlerini otomatikleştirerek test sürecini hızlandırmak ve güvenilirliğini artırmaktır.
+Bu proje, **LC Waikiki** e-ticaret platformu için otomasyon testleri gerçekleştiren bir test otomasyonudur. **Selenium WebDriver**, **TestNG** ve **Allure** entegrasyonları kullanılarak geliştirilmiştir. Projenin amacı, web uygulamasının fonksiyonel testlerini otomatikleştirerek test sürecini hızlandırmak ve güvenilirliğini artırmaktır.
 
 ## Kullanılan Teknolojiler ve Araçlar
 
